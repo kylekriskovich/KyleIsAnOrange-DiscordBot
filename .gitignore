@@ -1,0 +1,19 @@
+# Python venv
+.venv/
+env/
+venv/
+
+# Python cache
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+
+# VS Code
+.vscode/
+
+# Logs
+*.log
+
+# Local config / secrets (if you ever make one)
+.env
